@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E96B3CC028ABD4930071CCC6 /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CBF28ABD4930071CCC6 /* GeometryReaderExample.swift */; };
+		E96B3CC228ABD9390071CCC6 /* MultipleSheetsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CC128ABD9390071CCC6 /* MultipleSheetsExample.swift */; };
 		E981E90528AA7C4300143AFD /* AdvancedTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E90428AA7C4300143AFD /* AdvancedTutorialApp.swift */; };
 		E981E90728AA7C4300143AFD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E90628AA7C4300143AFD /* ContentView.swift */; };
 		E981E90928AA7C4400143AFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E981E90828AA7C4400143AFD /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		E96B3CBF28ABD4930071CCC6 /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
+		E96B3CC128ABD9390071CCC6 /* MultipleSheetsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsExample.swift; sourceTree = "<group>"; };
 		E981E90128AA7C4300143AFD /* AdvancedTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdvancedTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E981E90428AA7C4300143AFD /* AdvancedTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedTutorialApp.swift; sourceTree = "<group>"; };
 		E981E90628AA7C4300143AFD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				E981E91D28AA855B00143AFD /* CustomButton.swift */,
 				E981E92128AA870B00143AFD /* ScrollViewReaderExample.swift */,
 				E96B3CBF28ABD4930071CCC6 /* GeometryReaderExample.swift */,
+				E96B3CC128ABD9390071CCC6 /* MultipleSheetsExample.swift */,
 				E981E91828AA80E800143AFD /* Gestures */,
 				E981E90828AA7C4400143AFD /* Assets.xcassets */,
 				E981E90A28AA7C4400143AFD /* Preview Content */,
@@ -174,6 +177,7 @@
 				E96B3CC028ABD4930071CCC6 /* GeometryReaderExample.swift in Sources */,
 				E981E91328AA7D2700143AFD /* LongTapGestureExample.swift in Sources */,
 				E981E91A28AA810400143AFD /* DragGestureExample.swift in Sources */,
+				E96B3CC228ABD9390071CCC6 /* MultipleSheetsExample.swift in Sources */,
 				E981E90528AA7C4300143AFD /* AdvancedTutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
