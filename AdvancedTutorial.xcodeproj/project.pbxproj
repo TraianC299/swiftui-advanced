@@ -13,6 +13,7 @@
 		E96B3CC628ABE1170071CCC6 /* SoundsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CC528ABE1170071CCC6 /* SoundsExample.swift */; };
 		E96B3CC928ABE2DF0071CCC6 /* Tada-sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E96B3CC828ABE2DF0071CCC6 /* Tada-sound.mp3 */; };
 		E96B3CCB28ABE3790071CCC6 /* HapticsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CCA28ABE3790071CCC6 /* HapticsExample.swift */; };
+		E96B3CCF28AE2C990071CCC6 /* LocalNotificationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CCE28AE2C990071CCC6 /* LocalNotificationExample.swift */; };
 		E981E90528AA7C4300143AFD /* AdvancedTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E90428AA7C4300143AFD /* AdvancedTutorialApp.swift */; };
 		E981E90728AA7C4300143AFD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E90628AA7C4300143AFD /* ContentView.swift */; };
 		E981E90928AA7C4400143AFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E981E90828AA7C4400143AFD /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 		E96B3CC528ABE1170071CCC6 /* SoundsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsExample.swift; sourceTree = "<group>"; };
 		E96B3CC828ABE2DF0071CCC6 /* Tada-sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Tada-sound.mp3"; sourceTree = "<group>"; };
 		E96B3CCA28ABE3790071CCC6 /* HapticsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsExample.swift; sourceTree = "<group>"; };
+		E96B3CCE28AE2C990071CCC6 /* LocalNotificationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationExample.swift; sourceTree = "<group>"; };
 		E981E90128AA7C4300143AFD /* AdvancedTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdvancedTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E981E90428AA7C4300143AFD /* AdvancedTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedTutorialApp.swift; sourceTree = "<group>"; };
 		E981E90628AA7C4300143AFD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				E981E90628AA7C4300143AFD /* ContentView.swift */,
 				E981E91D28AA855B00143AFD /* CustomButton.swift */,
 				E981E92128AA870B00143AFD /* ScrollViewReaderExample.swift */,
+				E96B3CCE28AE2C990071CCC6 /* LocalNotificationExample.swift */,
 				E96B3CC528ABE1170071CCC6 /* SoundsExample.swift */,
 				E96B3CCA28ABE3790071CCC6 /* HapticsExample.swift */,
 				E96B3CC728ABE2C40071CCC6 /* Sounds */,
@@ -201,6 +204,7 @@
 				E981E91328AA7D2700143AFD /* LongTapGestureExample.swift in Sources */,
 				E981E91A28AA810400143AFD /* DragGestureExample.swift in Sources */,
 				E96B3CCB28ABE3790071CCC6 /* HapticsExample.swift in Sources */,
+				E96B3CCF28AE2C990071CCC6 /* LocalNotificationExample.swift in Sources */,
 				E96B3CC228ABD9390071CCC6 /* MultipleSheetsExample.swift in Sources */,
 				E981E90528AA7C4300143AFD /* AdvancedTutorialApp.swift in Sources */,
 			);
