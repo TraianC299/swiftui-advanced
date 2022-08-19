@@ -14,6 +14,8 @@
 		E96B3CC928ABE2DF0071CCC6 /* Tada-sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E96B3CC828ABE2DF0071CCC6 /* Tada-sound.mp3 */; };
 		E96B3CCB28ABE3790071CCC6 /* HapticsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CCA28ABE3790071CCC6 /* HapticsExample.swift */; };
 		E96B3CCF28AE2C990071CCC6 /* LocalNotificationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CCE28AE2C990071CCC6 /* LocalNotificationExample.swift */; };
+		E96B3CD128AF959D0071CCC6 /* HashableExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CD028AF959D0071CCC6 /* HashableExample.swift */; };
+		E96B3CD328AF97AE0071CCC6 /* ArrayMethodsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B3CD228AF97AE0071CCC6 /* ArrayMethodsExample.swift */; };
 		E981E90528AA7C4300143AFD /* AdvancedTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E90428AA7C4300143AFD /* AdvancedTutorialApp.swift */; };
 		E981E90728AA7C4300143AFD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E90628AA7C4300143AFD /* ContentView.swift */; };
 		E981E90928AA7C4400143AFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E981E90828AA7C4400143AFD /* Assets.xcassets */; };
@@ -34,6 +36,8 @@
 		E96B3CC828ABE2DF0071CCC6 /* Tada-sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Tada-sound.mp3"; sourceTree = "<group>"; };
 		E96B3CCA28ABE3790071CCC6 /* HapticsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsExample.swift; sourceTree = "<group>"; };
 		E96B3CCE28AE2C990071CCC6 /* LocalNotificationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationExample.swift; sourceTree = "<group>"; };
+		E96B3CD028AF959D0071CCC6 /* HashableExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableExample.swift; sourceTree = "<group>"; };
+		E96B3CD228AF97AE0071CCC6 /* ArrayMethodsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayMethodsExample.swift; sourceTree = "<group>"; };
 		E981E90128AA7C4300143AFD /* AdvancedTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdvancedTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E981E90428AA7C4300143AFD /* AdvancedTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedTutorialApp.swift; sourceTree = "<group>"; };
 		E981E90628AA7C4300143AFD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,9 +93,11 @@
 				E981E90628AA7C4300143AFD /* ContentView.swift */,
 				E981E91D28AA855B00143AFD /* CustomButton.swift */,
 				E981E92128AA870B00143AFD /* ScrollViewReaderExample.swift */,
+				E96B3CD028AF959D0071CCC6 /* HashableExample.swift */,
 				E96B3CCE28AE2C990071CCC6 /* LocalNotificationExample.swift */,
 				E96B3CC528ABE1170071CCC6 /* SoundsExample.swift */,
 				E96B3CCA28ABE3790071CCC6 /* HapticsExample.swift */,
+				E96B3CD228AF97AE0071CCC6 /* ArrayMethodsExample.swift */,
 				E96B3CC728ABE2C40071CCC6 /* Sounds */,
 				E96B3CBF28ABD4930071CCC6 /* GeometryReaderExample.swift */,
 				E96B3CC328ABDE4E0071CCC6 /* MaskExample.swift */,
@@ -193,8 +199,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E96B3CD128AF959D0071CCC6 /* HashableExample.swift in Sources */,
 				E981E91528AA7E1700143AFD /* MagnificationGestureExample.swift in Sources */,
 				E981E92228AA870B00143AFD /* ScrollViewReaderExample.swift in Sources */,
+				E96B3CD328AF97AE0071CCC6 /* ArrayMethodsExample.swift in Sources */,
 				E981E90728AA7C4300143AFD /* ContentView.swift in Sources */,
 				E981E91728AA801C00143AFD /* RotationGestureExample.swift in Sources */,
 				E981E91E28AA855B00143AFD /* CustomButton.swift in Sources */,
